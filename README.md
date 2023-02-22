@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BorisKarl
 - 👀 I’m interested in music and coding.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning finishing CS50.
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
