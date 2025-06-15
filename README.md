@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BorisKarl
 - 👀 I’m interested in music and coding.
-- 🌱 I’m currently learning finishing CS50.
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ...
+- 🌱 Doing Websites and Webapps.
+- 💞️ I’m looking to collaborate on PHP and JS Apps!
+- 📫 How to reach me: hi@codinghomealone.de
 
 <!---
 BorisKarl/BorisKarl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
